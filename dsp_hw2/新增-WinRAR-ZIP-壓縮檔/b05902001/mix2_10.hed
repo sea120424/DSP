@@ -1,0 +1,15 @@
+MU 8 {liN.state[2-9].mix}
+MU 6 {#i.state[2-9].mix}
+MU 6 {#er.state[2-9].mix}
+MU 8 {san.state[2-9].mix}
+MU 6 {sy.state[2-9].mix}
+MU 6 {#u.state[2-9].mix}
+MU 8 {liou.state[2-9].mix}
+MU 6 {qi.state[2-9].mix}
+MU 8 {ba.state[2-9].mix}
+MU 6 {jiou.state[2-9].mix}
+MU +4 {sil.state[3-7].mix}
+
+
+
+
